@@ -6,3 +6,5 @@ this repository contains Hamiltonian Monte Carlo method algorithm.
 my_work.ipynb　にJuliaでハミルトニアンモンテカルロ法を実装したコードを記載しており、
 
 figuresフォルダにはmy_work.ipynbで表示てきていない画像を順に添付しています。
+
+また、HMC.pdf　はmy_work.ipynb　をpdf化したものになります。
